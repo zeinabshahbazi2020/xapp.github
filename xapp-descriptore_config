@@ -15,7 +15,7 @@
                 {
                     "name": "rmr-data",
                     "container": "qp",
-                    "port": 4560,
+                    "port": 3512,
                     "rxMessages": ["TS_UE_LIST"],
                     "txMessages": ["TS_QOE_PREDICTION"],
                     "policies": [],

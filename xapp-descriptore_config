@@ -4,9 +4,9 @@
             {
                 "name": "qp",
                 "image": {
-                    "registry": "nexus3.o-ran-sc.org:10002",
+                    "registry": "nexus3.o-ran-sc.org:30000",
                     "name": "o-ran-sc/ric-app-qp",
-                    "tag": "0.0.4"
+                    "tag": "0.0.5"
                 }
             }
         ],
